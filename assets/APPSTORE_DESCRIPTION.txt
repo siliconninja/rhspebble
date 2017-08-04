@@ -1,0 +1,52 @@
+[Meta]
+
+Category
+Tools & Utilities
+
+Developer
+siliconninja
+
+[Description]
+
+View your RHS schedule and information in a convenient
+location.
+
+Check the current rotating schedule day, time until the period ends, 
+which teachers are absent, the weather at the school, and more.
+
+It's free and doesn't eat up your phone's data or battery life. It does 
+not run in the background.
+
+The app is open-source and gets data from reliable resources. Click on 
+"Source Code" below to check it out!
+
+
+COMPATIBILITY:
+This app works on Pebble Classic/Pebble Steel, Pebble Time, and Pebble 
+Time Round watches! You can download older versions of the app on the 
+"Source Code" page linked below if needed.
+
+NOTIFICATIONS:
+This app pushes timeline pins by period. These timeline pins do not send
+notifications, they are only shown for reference.
+
+DEVELOPERS:
+Data ported over from the RHS iOS app website: 
+http://bit.ly/rhsdata
+
+Weather data provided by:
+http://forecast.io/
+
+PRIVACY:
+This app DOES NOT collect personal information or any specific 
+information about your watch. It will not use them to track your habits 
+or record specific keystrokes.
+However, this app will collect crash data, launches, total button 
+presses and other general information to improve the application's 
+stability, not to track any individual.
+
+This feature cannot be turned off due to Pebble's data collection 
+feature being activated when installed from the Pebble app store. You 
+may always install the current version or older versions from the 
+"Source Code" link below. Just click on the "VERSIONS" folder and select
+a version to install (open the file in the Pebble app).

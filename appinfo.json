@@ -1,0 +1,98 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "siliconninja",
+    "longName": "RHS Schedule",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/rhs_action_announcements.png",
+                "name": "IMAGES_RHS_ACTION_ANNOUNCEMENTS_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_action_weather.png",
+                "name": "IMAGES_RHS_ACTION_WEATHER_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_announcements.png",
+                "name": "IMAGES_RHS_ANNOUNCEMENTS_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_weather.png",
+                "name": "IMAGES_RHS_WEATHER_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_action_right_icon.png",
+                "name": "IMAGES_RHS_ACTION_RIGHT_ICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_pbl_legacy_icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_RHS_PBL_LEGACY_ICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_about.png",
+                "name": "IMAGES_RHS_ABOUT_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_main_icon.png",
+                "name": "IMAGES_RHS_MAIN_ICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_schedule.png",
+                "name": "IMAGES_RHS_SCHEDULE_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rhs_absent.png",
+                "name": "IMAGES_RHS_ABSENT_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "RHS Schedule",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "95ede234-04a6-41ab-a853-705f7fcf3d9d",
+    "versionCode": 1,
+    "versionLabel": "12.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
