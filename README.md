@@ -28,7 +28,9 @@ The RHS Total School Days API is no longer available.
 |<img src="../../raw/master/images/timeline1.png" alt="Timeline with Scheduled Periods Displaying on Pebble/Pebble Steel" width="60%" height="60%">|<img src="../../raw/master/images/canvas14.png" alt="Absence List Displaying on Pebble Time" width="60%" height="60%">|<img src="../../raw/master/images/canvas5.png" alt="Period Details Displaying on Pebble Time Round" width="60%" height="60%">|
 
 ## License
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0](LICENSE) in this repo's files with exceptions to some files (see the [LICENSE](LICENSE) for details.)
+Until 8/22/18, this project was licensed under CC-BY-NC-SA 4.0. To make this project more accessible to the open source community and to encourage sharing, I've decided to relicense it under the MIT license. You may relicense your existing work and use it under CC-BY 4.0 (or another license, as long as your work complies with the terms of the MIT license license) if you want to. Please see the LICENSE file for the full terms of the license first.
+
+[MIT License](LICENSE) in this repo's files **with exceptions to some files** (see the [LICENSE](LICENSE) for details.)
 
 ### Icon Credits
 Miu "Clock" icon by Linh Pham Thi Dieu (rhs_schedule.png) @ http://linhpham.me/miu/ - This repository's version is MODIFIED from the original
